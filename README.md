@@ -53,7 +53,7 @@
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/mujtaba510/Cafe-Management-System.git
 
